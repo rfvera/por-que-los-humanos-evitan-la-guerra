@@ -23,7 +23,7 @@ format:
     output-file: "Por que los humanos evitan la guerra.epub"     # Nombre de archivo de salida
   pdf:
     toc: true
-    number-sections: true
+    number-sections: false
     lang: es
     pdf-engine: xelatex
     include-in-header:
